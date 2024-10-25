@@ -2,6 +2,6 @@
 - 👀 I’m interested in data analytics, statistics and programming. 
 - 🌱 I’m currently learning advance SQL and R, while doing data analytics certification as I really would like to start in the field. 
 - 💞️ I’m looking to network with other professionals, imporving on my skills and my portfolio and hopefully increase my chance of landing my first job in the field.
-- 📫 How to reach me : you can email me on pual.najda1@gmail.com
+- 📫 How to reach me : you can email me on paul.najda1@gmail.com
 - 😄 Pronouns: he/him/lord of the dungeon/keyboard slayer :)
 - ⚡ Fun fact: I always have a dog and my dogs name always starts with 'L'.
